@@ -2,7 +2,7 @@
 
 # Nettverksdagen 2019
 
-## Dattasett
+## Datasett
 [solflekker.txt](nettverksdag2019/solflekker.txt)
 
 [heistur.csv](nettverksdag2019/heistur.csv)
