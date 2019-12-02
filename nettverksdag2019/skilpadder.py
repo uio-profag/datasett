@@ -1,14 +1,12 @@
-from pylab import *
 from turtle import *
 
-bgcolor('black')
 shape('turtle')
-color('seagreen')
-speed(0)
+color('purple')
 
-for i in range(10000):
-    forward(10)
-    vinkel = randint(0,360)
-    right(vinkel)
-    
+forward(100)
+right(45)
+backward(200)
+left(90)
+forward(100)
+
 exitonclick()
